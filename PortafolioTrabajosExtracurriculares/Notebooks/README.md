@@ -48,14 +48,6 @@ The project explores several questions:
 
 ---
 
-## Example Visualization
-
-Correlation between numerical variables:
-
-![Correlation Matrix](images/correlation_matrix.png)
-
----
-
 ## Key Insights
 
 * Movies with higher vote counts tend to have slightly higher ratings.
